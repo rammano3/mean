@@ -1,5 +1,5 @@
 /**
- * Module dependencies.
+ * Module dependencies .
  */
 var mongoose = require('mongoose'),
     async = require('async'),
