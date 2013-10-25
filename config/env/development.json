@@ -1,5 +1,5 @@
 {
-    "db": "mongodb://localhost/mean-dev",
+    "db": "mongodb://mean-admin:zxcvbnm@paulo.mongohq.com:10058/app18483478",
     "app": {
         "name": "MEAN - A Modern Stack - Development"
     },
